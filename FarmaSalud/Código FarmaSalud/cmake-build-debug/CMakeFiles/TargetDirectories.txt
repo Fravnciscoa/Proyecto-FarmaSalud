@@ -1,0 +1,3 @@
+C:/Users/fran-/Desktop/Trabajo 4 arreglao/cmake-build-debug/CMakeFiles/Trabajo_4_arreglao.dir
+C:/Users/fran-/Desktop/Trabajo 4 arreglao/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fran-/Desktop/Trabajo 4 arreglao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
